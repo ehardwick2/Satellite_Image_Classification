@@ -1,4 +1,4 @@
-# Satellite Image Classification
+# Satellite Image Classification (Forested/Non-Forested)
 
 
 <p align="center">
